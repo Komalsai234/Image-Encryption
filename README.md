@@ -65,7 +65,13 @@ available only when the app server is running on AWS EC2 instance.**
 
   ### **Image Encryption**
   - User can choose between ECC & RSA for Public Key Encryption
-  ![App Screenshot](https://github.com/Komalsai234/Hospital-Management-System/blob/dcded4475dd7cff1c0e7879e110ec597256a164f/Screenshots/Home.png)
+  ![App Screenshot](https://github.com/Komalsai234/Image-Encryption/blob/main/images/user-encryption.png)
+
+  ### **Image Decryption**
+  ![App Screenshot](https://github.com/Komalsai234/Image-Encryption/blob/main/images/user-decryption.png)
+
+  - User can Download the image by clicking on "Download File" as shown below
+  ![App Screenshot](https://github.com/Komalsai234/Image-Encryption/blob/main/images/decryption-image-download.png)
   
 ### Security and Limitations
 - Utilizes AES for image encryption, enhanced with RSA or ECC for master key security.
