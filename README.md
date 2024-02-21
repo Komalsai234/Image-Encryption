@@ -30,12 +30,11 @@ providing a secure, efficient approach to image encryption.
 
 ### Setting up Conda Environment
 
-```# Create a new Conda environment
-conda create --name image_encryption python=3.9```
+# Create a new Conda environment
+```conda create --name image_encryption python=3.9```
 
-```# Activate the environment
-conda activate image_encryption 
-```
+# Activate the environment
+```conda activate image_encryption ```
 
 ### Install the required packages
 ```
