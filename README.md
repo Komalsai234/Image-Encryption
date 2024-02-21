@@ -40,7 +40,6 @@ conda activate image_encryption
 
 ### Install the required packages
 ```
-# Install the required packages
 pip install -r requirements.txt
 ```
 
