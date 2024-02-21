@@ -61,19 +61,21 @@ available only when the app server is running on AWS EC2 instance.**
 - Users can choose between RSA and ECC for the encryption of the AES master key.
 
 ## User-Interface (UI)
-
-
-
+  ###
   ![App Screenshot](https://github.com/Komalsai234/Image-Encryption/blob/main/images/fast-api.png)
 
   ### **Image Encryption**
   - User can choose between ECC & RSA for Public Key Encryption
+  ###
   ![App Screenshot](https://github.com/Komalsai234/Image-Encryption/blob/main/images/user-encryption.png)
 
   ### **Image Decryption**
+  - By entering the uuid the user can start decryprtion of the image
+  ### 
   ![App Screenshot](https://github.com/Komalsai234/Image-Encryption/blob/main/images/user-decryption.png)
 
   - User can Download the image by clicking on "Download File" as shown below
+  ###
   ![App Screenshot](https://github.com/Komalsai234/Image-Encryption/blob/main/images/decryption-image-download.png)
   
 ### Security and Limitations
