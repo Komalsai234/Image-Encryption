@@ -77,7 +77,8 @@ available only when the app server is running on AWS EC2 instance.**
   - User can Download the image by clicking on "Download File" as shown below
   ###
   ![App Screenshot](https://github.com/Komalsai234/Image-Encryption/blob/main/images/decryption-image-download.png)
-  
+
+### 
 ### Security and Limitations
 - Utilizes AES for image encryption, enhanced with RSA or ECC for master key security.
 
