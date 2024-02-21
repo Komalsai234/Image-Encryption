@@ -61,6 +61,9 @@ available only when the app server is running on AWS EC2 instance.**
 - Users can choose between RSA and ECC for the encryption of the AES master key.
 
 ## User-Interface (UI)
+
+
+
   ![App Screenshot](https://github.com/Komalsai234/Image-Encryption/blob/main/images/fast-api.png)
 
   ### **Image Encryption**
