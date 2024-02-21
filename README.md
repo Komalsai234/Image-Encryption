@@ -37,9 +37,6 @@ conda create --name image_encryption python=3.9
 
 # Activate the environment
 conda activate image_encryption 
-
-# Navigate to the code files directory
-cd path/to/CODE_FILES
 ```
 
 ### Install the required packages
