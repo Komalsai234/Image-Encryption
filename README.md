@@ -18,16 +18,15 @@ providing a secure, efficient approach to image encryption.
 
 - **Highly Secure:** Incorporates RSA and ECC, two of the most secure public-key cryptographic algorithms, along with AES.
 
-## Installation and Setup
-
-### Prerequisites
+## Tech Stack
 - Python
-- Anaconda
-- AWS Account
-- Image Encryption using AES
+- OpenCV
+- AWS EC2
 - Fast API
 - Unicorn
-- OpenCV
+- Duck DNS
+
+## Installation and Setup
 
 ### Setting up Conda Environment
 
