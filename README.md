@@ -24,7 +24,7 @@ providing a secure, efficient approach to image encryption.
 - AWS EC2
 - Fast API
 - Unicorn
-- Duck DNS
+- Duck DNS 
 
 ## Installation and Setup
 
