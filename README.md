@@ -24,7 +24,7 @@ providing a secure, efficient approach to image encryption.
 - Python
 - Anaconda
 - AWS Account
-- Image Encryption using AES 2
+- Image Encryption using AES
 - Fast API
 - Unicorn
 - OpenCV
@@ -60,6 +60,13 @@ available only when the app server is running on AWS EC2 instance.**
 
 - Users can choose between RSA and ECC for the encryption of the AES master key.
 
+## User-Interface (UI)
+  ![App Screenshot](https://github.com/Komalsai234/Image-Encryption/blob/main/images/fast-api.png)
+
+  ### **Image Encryption**
+  - User can choose between ECC & RSA for Public Key Encryption
+  ![App Screenshot](https://github.com/Komalsai234/Hospital-Management-System/blob/dcded4475dd7cff1c0e7879e110ec597256a164f/Screenshots/Home.png)
+  
 ### Security and Limitations
 - Utilizes AES for image encryption, enhanced with RSA or ECC for master key security.
 
