@@ -47,7 +47,7 @@ pip install -r requirements.txt
 ```
 uvicorn main:app --host 0.0.0.0 --port 8000
 ```
-**⚠ This is process of running the app in the local system. The link to access the user
+**⚠ This is the process of running the app in the local system. The link to access the user
 interface is given below but it is 
 available only when the app server is running on AWS EC2 instance.**
 
