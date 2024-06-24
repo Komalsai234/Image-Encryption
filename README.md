@@ -86,10 +86,6 @@ available only when the app server is running on AWS EC2 instance.**
 
 - Large images may take longer to process
 
-## Instructor 
-
-### Dr. Sunil Kumar S, Assistant Professor, Amrita School of AI
-
 
 ## Contributors
 
